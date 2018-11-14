@@ -26,6 +26,12 @@
 npm run serve
 ```
 
+### Run in production mode
+```
+npm run build
+serve -s dist
+(You may have to install 'serve' first)
+```
 ### Deploys to production
 ```
 npm run deploy
